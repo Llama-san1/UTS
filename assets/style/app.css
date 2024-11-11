@@ -1,0 +1,27 @@
+.profileImage{
+    width: 200px;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+body {
+    background: linear-gradient(#9a08dd 0%,#dd4c4f 40% ,#7420d3 100%)
+}
+.profile h2{
+    color: white;
+}
+.profile h4{
+    color: white;
+    transform: translatey(-10px);
+}
+.biodata {
+    background-color: white;
+}
+.text {
+    font-family: poppins;
+    font-size: 20px;
+}
